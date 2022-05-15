@@ -1,0 +1,17 @@
+[
+    {
+        "name": "userA",
+        "post": "PC1",
+        "year": 2020
+    },
+    {
+        "name": "userB",
+        "post": "PC2",
+        "year": 2022
+    },
+    {
+        "name": "userC",
+        "post": "PC3",
+        "year": 2024
+    }
+]
