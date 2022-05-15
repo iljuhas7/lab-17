@@ -1,0 +1,17 @@
+[
+    {
+        "name": "UserA",
+        "group": 122,
+        "z": 2020
+    },
+    {
+        "name": "UserB",
+        "group": 132,
+        "z": 2022
+    },
+    {
+        "name": "UserC",
+        "group": 146,
+        "z": 2025
+    }
+]
